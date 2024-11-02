@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\bilgi.islemy2\\source\\repos\\MyPortflio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E0E8167-05AE-44BE-BE8D-524F9EA6FCD5}|MyPortflio.csproj|c:\\users\\bilgi.islemy2\\source\\repos\\myportflio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E0E8167-05AE-44BE-BE8D-524F9EA6FCD5}|MyPortflio.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E0E8167-05AE-44BE-BE8D-524F9EA6FCD5}|MyPortflio.csproj|c:\\users\\bilgi.islemy2\\source\\repos\\myportflio\\views\\todolist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E0E8167-05AE-44BE-BE8D-524F9EA6FCD5}|MyPortflio.csproj|solutionrelative:views\\todolist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E0E8167-05AE-44BE-BE8D-524F9EA6FCD5}|MyPortflio.csproj|c:\\users\\bilgi.islemy2\\source\\repos\\myportflio\\views\\shared\\components\\_layoutnavbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5E0E8167-05AE-44BE-BE8D-524F9EA6FCD5}|MyPortflio.csproj|solutionrelative:views\\shared\\components\\_layoutnavbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5E0E8167-05AE-44BE-BE8D-524F9EA6FCD5}|MyPortflio.csproj|c:\\users\\bilgi.islemy2\\source\\repos\\myportflio\\views\\shared\\components\\_layoutsidebarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E0E8167-05AE-44BE-BE8D-524F9EA6FCD5}|MyPortflio.csproj|solutionrelative:views\\shared\\components\\_layoutsidebarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E0E8167-05AE-44BE-BE8D-524F9EA6FCD5}|MyPortflio.csproj|c:\\users\\bilgi.islemy2\\source\\repos\\myportflio\\viewcomponents\\layoutviewcomponents\\_layoutnavbarcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E0E8167-05AE-44BE-BE8D-524F9EA6FCD5}|MyPortflio.csproj|solutionrelative:viewcomponents\\layoutviewcomponents\\_layoutnavbarcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E0E8167-05AE-44BE-BE8D-524F9EA6FCD5}|MyPortflio.csproj|c:\\users\\bilgi.islemy2\\source\\repos\\myportflio\\viewcomponents\\layoutviewcomponents\\_layoutheadcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E0E8167-05AE-44BE-BE8D-524F9EA6FCD5}|MyPortflio.csproj|solutionrelative:viewcomponents\\layoutviewcomponents\\_layoutheadcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E0E8167-05AE-44BE-BE8D-524F9EA6FCD5}|MyPortflio.csproj|c:\\users\\bilgi.islemy2\\source\\repos\\myportflio\\views\\layout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5E0E8167-05AE-44BE-BE8D-524F9EA6FCD5}|MyPortflio.csproj|solutionrelative:views\\layout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E0E8167-05AE-44BE-BE8D-524F9EA6FCD5}|MyPortflio.csproj|c:\\users\\bilgi.islemy2\\source\\repos\\myportflio\\views\\experience\\experiencelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5E0E8167-05AE-44BE-BE8D-524F9EA6FCD5}|MyPortflio.csproj|solutionrelative:views\\experience\\experiencelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5E0E8167-05AE-44BE-BE8D-524F9EA6FCD5}|MyPortflio.csproj|c:\\users\\bilgi.islemy2\\source\\repos\\myportflio\\controllers\\todolistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E0E8167-05AE-44BE-BE8D-524F9EA6FCD5}|MyPortflio.csproj|solutionrelative:controllers\\todolistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,76 +42,40 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\bilgi.islemy2\\source\\repos\\MyPortflio\\Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\bilgi.islemy2\\source\\repos\\MyPortflio\\Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAD4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T08:52:58.309Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bilgi.islemy2\\source\\repos\\MyPortflio\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\bilgi.islemy2\\source\\repos\\MyPortflio\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T06:12:12.315Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bilgi.islemy2\\source\\repos\\MyPortflio\\Views\\ToDoList\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\ToDoList\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bilgi.islemy2\\source\\repos\\MyPortflio\\Views\\ToDoList\\Index.cshtml",
+              "RelativeToolTip": "Views\\ToDoList\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T08:43:52.793Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\bilgi.islemy2\\source\\repos\\MyPortflio\\Views\\Shared\\Components\\_LayoutNavbarComponentPartial\\Default.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Components\\_LayoutNavbarComponentPartial\\Default.cshtml",
-              "ToolTip": "C:\\Users\\bilgi.islemy2\\source\\repos\\MyPortflio\\Views\\Shared\\Components\\_LayoutNavbarComponentPartial\\Default.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Components\\_LayoutNavbarComponentPartial\\Default.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-15T13:57:03.744Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_LayoutHeadComponentPartial.cs",
-              "DocumentMoniker": "C:\\Users\\bilgi.islemy2\\source\\repos\\MyPortflio\\ViewComponents\\LayoutViewComponents\\_LayoutHeadComponentPartial.cs",
-              "RelativeDocumentMoniker": "ViewComponents\\LayoutViewComponents\\_LayoutHeadComponentPartial.cs",
-              "ToolTip": "C:\\Users\\bilgi.islemy2\\source\\repos\\MyPortflio\\ViewComponents\\LayoutViewComponents\\_LayoutHeadComponentPartial.cs",
-              "RelativeToolTip": "ViewComponents\\LayoutViewComponents\\_LayoutHeadComponentPartial.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T13:52:35.635Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_LayoutNavbarComponentPartial.cs",
-              "DocumentMoniker": "C:\\Users\\bilgi.islemy2\\source\\repos\\MyPortflio\\ViewComponents\\LayoutViewComponents\\_LayoutNavbarComponentPartial.cs",
-              "RelativeDocumentMoniker": "ViewComponents\\LayoutViewComponents\\_LayoutNavbarComponentPartial.cs",
-              "ToolTip": "C:\\Users\\bilgi.islemy2\\source\\repos\\MyPortflio\\ViewComponents\\LayoutViewComponents\\_LayoutNavbarComponentPartial.cs",
-              "RelativeToolTip": "ViewComponents\\LayoutViewComponents\\_LayoutNavbarComponentPartial.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Title": "ToDoListController.cs",
+              "DocumentMoniker": "C:\\Users\\bilgi.islemy2\\source\\repos\\MyPortflio\\Controllers\\ToDoListController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ToDoListController.cs",
+              "ToolTip": "C:\\Users\\bilgi.islemy2\\source\\repos\\MyPortflio\\Controllers\\ToDoListController.cs",
+              "RelativeToolTip": "Controllers\\ToDoListController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T13:55:38.005Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ExperienceList.cshtml",
-              "DocumentMoniker": "C:\\Users\\bilgi.islemy2\\source\\repos\\MyPortflio\\Views\\Experience\\ExperienceList.cshtml",
-              "RelativeDocumentMoniker": "Views\\Experience\\ExperienceList.cshtml",
-              "ToolTip": "C:\\Users\\bilgi.islemy2\\source\\repos\\MyPortflio\\Views\\Experience\\ExperienceList.cshtml",
-              "RelativeToolTip": "Views\\Experience\\ExperienceList.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-15T13:50:15.816Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\bilgi.islemy2\\source\\repos\\MyPortflio\\Views\\Layout\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Layout\\Index.cshtml",
-              "ToolTip": "C:\\Users\\bilgi.islemy2\\source\\repos\\MyPortflio\\Views\\Layout\\Index.cshtml",
-              "RelativeToolTip": "Views\\Layout\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-15T13:50:38.068Z"
+              "WhenOpened": "2024-10-26T08:32:49.823Z"
             }
           ]
         }

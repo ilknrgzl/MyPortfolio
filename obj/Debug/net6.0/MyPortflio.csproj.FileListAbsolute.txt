@@ -247,3 +247,4 @@ C:\Users\bilgi.islemy2\source\repos\MyPortflio\bin\Debug\net6.0\tr\Microsoft.Cod
 C:\Users\bilgi.islemy2\source\repos\MyPortflio\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\bilgi.islemy2\source\repos\MyPortflio\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\bilgi.islemy2\source\repos\MyPortflio\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\bilgi.islemy2\source\repos\MyPortflio\obj\Debug\net6.0\MyPortflio.sourcelink.json
